@@ -1,4 +1,4 @@
-This is a restaurant's app showing full menu using ReactJS, ES6 & Restful Api
+This is a restaurant's app showing full menu using ReactJS, ES6 & RESTful API
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
